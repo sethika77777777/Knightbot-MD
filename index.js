@@ -52,7 +52,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "+15068029617"
+let phoneNumber = "15068029617"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
 global.botname = "Axevl-MD"
