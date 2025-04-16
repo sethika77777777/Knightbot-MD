@@ -1,12 +1,12 @@
 const settings = {
-  packname: 'Knight',
-  author: 'Bot',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '917023951514', //Your number
+  packname: 'Making by',
+  author: 'Axvel v.1.0.1',
+  botName: "AXEVEL - MD",
+  botOwner: 'Sethika (Axvel)', // Your name
+  ownerNumber: '+15068029617', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
-  description: "This is a bot for managing group commands and automating tasks.",
+  commandMode: "privet",
+  description: "Some body trying to use this bot without sethika's permissiion it's guy is a GAY",
   version: "1.0.0",
 };
 
